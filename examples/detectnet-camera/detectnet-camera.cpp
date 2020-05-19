@@ -141,7 +141,7 @@ int main( int argc, char** argv )
 	 */
 	float confidence = 0.0f;
 	
-	while( !signal_recieved )
+	while( !signal_recieved && !camera->bOnEOS)
 	{
 		// capture RGBA image
 		float* imgRGBA = NULL;
