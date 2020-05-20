@@ -6,15 +6,3 @@
 	path = tools/camera-capture
 	url = https://github.com/AIoT-IST/tools/camera-capture
 	branch = master
-[submodule "python/training/classification"]
-	path = python/training/classification
-	url = https://github.com/AIoT-IST/pytorch-classification
-	branch = master
-[submodule "python/training/detection"]
-	path = python/training/detection
-	url = https://github.com/AIoT-IST/pytorch-detection
-	branch = master
-[submodule "python/training/segmentation"]
-	path = python/training/segmentation
-	url = https://github.com/AIoT-IST/pytorch-segmentation
-	branch = master
