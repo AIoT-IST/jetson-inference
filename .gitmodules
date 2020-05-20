@@ -4,7 +4,7 @@
 	branch = Branch_video_file_source
 [submodule "tools/camera-capture"]
 	path = tools/camera-capture
-	url = https://github.com/AIoT-IST/camera-capture
+	url = https://github.com/AIoT-IST/tools/camera-capture
 	branch = master
 [submodule "python/training/classification"]
 	path = python/training/classification
